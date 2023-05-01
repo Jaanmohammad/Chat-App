@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "558593486579",
+    "project_id": "chat-e2cfe",
+    "storage_bucket": "chat-e2cfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558593486579:android:7b5ca5ab78d3c2e4c8d186",
+        "android_client_info": {
+          "package_name": "com.jksurajpuriya.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558593486579-ijqc4kespmh93ft78h84c3u1418uaesv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7xc6Zkw3uZJ6fv14eMbidBoIdW4WxTp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558593486579-ijqc4kespmh93ft78h84c3u1418uaesv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558593486579:android:0dcef3b3cc739ec6c8d186",
+        "android_client_info": {
+          "package_name": "com.jksurajpuriya.chatingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558593486579-2mmmkq43ma7s0go79p7m4e9g0lqsncj0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jksurajpuriya.chatingapp",
+            "certificate_hash": "00e567573d4032b4800d1b528da85a7a49944bf9"
+          }
+        },
+        {
+          "client_id": "558593486579-ijqc4kespmh93ft78h84c3u1418uaesv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7xc6Zkw3uZJ6fv14eMbidBoIdW4WxTp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558593486579-ijqc4kespmh93ft78h84c3u1418uaesv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
